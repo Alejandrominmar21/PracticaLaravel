@@ -1,0 +1,1 @@
+<img src="img/logo.png" alt="" width="100px" style="padding-right:9%;"><?php /**PATH D:\xampp\htdocs\practicaLaravel\resources\views/components/application-logo.blade.php ENDPATH**/ ?>
